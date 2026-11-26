@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/POWER/M625A/MANUALS/1978 - M625A - Power Supply (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/75516223a4b432fe-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "18"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [29.3, 12.0, 331.0, 422.9],
+ "outlines": {
+  "line": {"rings": 193, "straight": {"n": 2200, "mm": 4981.5}, "curved": {"n": 490, "mm": 796.3}},
+  "text": {"rings": 136, "straight": {"n": 1143, "mm": 1315.1}, "curved": {"n": 326, "mm": 523.5}},
+  "tb": {"rings": 6, "straight": {"n": 58, "mm": 88.8}, "curved": {"n": 20, "mm": 34.7}}
+ },
+ "circles": [
+  {"c": [79.0, 284.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.9, 284.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [218.9, 86.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [30.9, 404.8, 125.2, 410.8], "text": "WARD -BeCK ev.TI!M."},
+   {"mm": [129.1, 404.8, 142.9, 411.0], "text": "LTD"},
+   {"mm": [136.0, 347.6, 201.4, 352.9], "text": "M625A POWER SUPPL"},
+   {"mm": [229.5, 321.5, 290.2, 326.8], "text": "MFG PAR NUMBER"},
+   {"mm": [45.1, 307.2, 56.1, 315.1], "text": "sw,"},
+   {"mm": [185.2, 300.5, 192.6, 306.1], "text": "RL"},
+   {"mm": [73.2, 267.9, 115.9, 273.2], "text": "Regu lator PC"},
+   {"mm": [44.7, 83.8, 51.4, 89.0], "text": "wa"},
+   {"mm": [61.3, 83.8, 69.5, 89.0], "text": "r-ee"},
+   {"mm": [120.3, 83.8, 126.5, 89.0], "text": "Se"},
+   {"mm": [141.4, 83.8, 212.4, 89.0], "text": "rep lacemen parts ma"},
+   {"mm": [251.3, 83.8, 280.2, 89.0], "text": "\"pec ifl ed"},
+   {"mm": [289.7, 76.4, 310.2, 85.5], "text": "ca"},
+   {"mm": [45.1, 77.1, 122.2, 82.4], "text": "menu fa et urer-s for onl"},
+   {"mm": [133.0, 77.1, 164.9, 82.4], "text": "ed opt Imu"},
+   {"mm": [177.7, 77.1, 199.9, 82.4], "text": "Qu me"},
+   {"mm": [211.6, 77.1, 249.1, 82.4], "text": "performe ee"},
+   {"mm": [266.9, 53.5, 288.7, 65.1], "text": "BS"},
+   {"mm": [244.4, 31.1, 263.0, 38.3], "text": "tp"},
+   {"mm": [237.3, 24.0, 258.2, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [24.2, 396.3, 89.5, 419.5], "from": "title-block words (training set)", "text": ["WARD -BeCK ev.TI!M."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 29–331 mm across, 12–423 mm up",
+  "- **Outlines:** line 193 rings, 2,200 straight (4,982 mm) / 490 curved (796 mm); text 136 rings, 1,143 straight (1,315 mm) / 326 curved (524 mm); tb 6 rings, 58 straight (88.8 mm) / 20 curved (34.7 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.8 @ (79.0, 284.7), r 1.7 @ (86.9, 284.7), r 1.7 @ (218.9, 86.4)",
+  "- **Words (OCR):** 42 in 20 lines: WARD -BeCK ev.TI!M. · LTD · M625A POWER SUPPL · MFG PAR NUMBER · sw, · RL · Regu lator PC · wa · r-ee · Se · rep lacemen parts ma · \"pec ifl ed",
+  "- **Title block:** (24, 396)–(90, 420) mm: WARD -BeCK ev.TI!M."
+ ]
+}

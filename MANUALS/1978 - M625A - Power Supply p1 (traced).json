@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/POWER/M625A/MANUALS/1978 - M625A - Power Supply.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/189587744824e072-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "18"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.5, 22.2, 329.5, 423.6],
+ "outlines": {
+  "line": {"rings": 34, "straight": {"n": 501, "mm": 2747.7}, "curved": {"n": 81, "mm": 124.4}},
+  "text": {"rings": 68, "straight": {"n": 718, "mm": 1155.5}, "curved": {"n": 175, "mm": 353.5}},
+  "tb": {"rings": 18, "straight": {"n": 375, "mm": 616.0}, "curved": {"n": 86, "mm": 159.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [122.0, 403.9, 287.6, 414.7], "text": "WAAD-BECK BYSTEMS LTD;"},
+   {"mm": [52.9, 392.9, 174.2, 409.7], "text": "WBS Telex: 083-25380"},
+   {"mm": [141.2, 243.1, 196.7, 255.1], "text": "M625A"},
+   {"mm": [136.4, 230.1, 200.4, 238.7], "text": "POWER SUPPLY"}
+  ]
+ },
+ "title_block": {"mm": [46.2, 386.5, 266.0, 423.4], "from": "title-block words (training set)", "text": ["WAAD-BECK BYSTEMS LTD;", "WBS Telex: 083-25380"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–330 mm across, 22–424 mm up",
+  "- **Outlines:** line 34 rings, 501 straight (2,748 mm) / 81 curved (124 mm); text 68 rings, 718 straight (1,156 mm) / 175 curved (354 mm); tb 18 rings, 375 straight (616 mm) / 86 curved (159 mm)",
+  "- **Words (OCR):** 7 in 4 lines: WAAD-BECK BYSTEMS LTD; · WBS Telex: 083-25380 · M625A · POWER SUPPLY",
+  "- **Title block:** (46, 386)–(266, 423) mm: WAAD-BECK BYSTEMS LTD; · WBS Telex: 083-25380"
+ ]
+}

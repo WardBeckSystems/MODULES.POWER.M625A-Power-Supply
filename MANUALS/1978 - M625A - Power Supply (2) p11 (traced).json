@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/POWER/M625A/MANUALS/1978 - M625A - Power Supply (2).pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/75516223a4b432fe-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "18"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [30.9, 14.6, 331.6, 423.8],
+ "outlines": {
+  "line": {"rings": 278, "straight": {"n": 2847, "mm": 5196.7}, "curved": {"n": 721, "mm": 1122.2}},
+  "text": {"rings": 222, "straight": {"n": 1696, "mm": 1817.7}, "curved": {"n": 528, "mm": 832.8}}
+ },
+ "circles": [
+  {"c": [48.5, 325.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [58.7, 285.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [167.4, 304.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [48.1, 305.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 93,
+  "lines": [
+   {"mm": [139.5, 361.2, 206.4, 366.5], "text": "IRCUI DESCR IPTION"},
+   {"mm": [130.4, 348.2, 211.2, 353.5], "text": "1_117 REGULA TOR BOARD"},
+   {"mm": [47.5, 321.7, 132.8, 327.0], "text": "Ov rv olta ge pl\"Oteet lon Is"},
+   {"mm": [155.9, 321.7, 209.9, 327.0], "text": "ded by 'crowb."},
+   {"mm": [221.7, 321.7, 293.0, 327.0], "text": "SCA 09 Tn sen ing"},
+   {"mm": [47.5, 315.2, 123.1, 320.5], "text": "network o;onsl lng of"},
+   {"mm": [144.4, 315.2, 150.3, 320.5], "text": "08"},
+   {"mm": [160.0, 315.2, 190.2, 320.5], "text": "CR6, CA7"},
+   {"mm": [211.8, 315.2, 293.0, 320.5], "text": "A45 to A50 will monitor"},
+   {"mm": [47.1, 308.5, 108.0, 313.8], "text": "botl'l tl'le posit ve"},
+   {"mm": [128.7, 308.5, 140.1, 313.8], "text": "we ll"},
+   {"mm": [160.8, 308.5, 203.6, 313.8], "text": "tl'le negative"},
+   {"mm": [225.0, 308.5, 229.5, 313.8], "text": "ly"},
+   {"mm": [244.4, 308.5, 247.6, 313.8], "text": "lt"},
+   {"mm": [272.0, 308.5, 288.4, 313.8], "text": "Sl'Io<.ol"},
+   {"mm": [51.0, 301.8, 66.5, 307.1], "text": "ither"},
+   {"mm": [89.2, 301.8, 162.4, 307.1], "text": "ge ri se to .pp.... xl ma"},
+   {"mm": [185.0, 301.6, 190.9, 307.4], "text": "30"},
+   {"mm": [219.8, 301.8, 242.9, 307.1], "text": "SCA Q'!l"},
+   {"mm": [247.9, 301.8, 292.8, 307.1], "text": "wi ll Il r\"e and"},
+   {"mm": [47.5, 295.6, 157.8, 300.8], "text": "tl'lus l'lol\"t c;1r-c:ul the po wer\" up"},
+   {"mm": [47.1, 282.4, 70.2, 287.7], "text": "Met er in"},
+   {"mm": [80.7, 282.4, 291.9, 287.7], "text": "network <;onsl st lng of A27 tl'lrou gl'l AlB er-e not utlllzed In"},
+   {"mm": [47.5, 275.7, 93.9, 281.0], "text": "tl'le 1044858 pow"},
+   {"mm": [110.1, 275.7, 126.9, 281.0], "text": "'4lp ly"},
+   {"mm": [289.7, 76.4, 310.2, 85.5], "text": "ca"},
+   {"mm": [266.9, 53.5, 288.7, 65.1], "text": "BS"},
+   {"mm": [244.4, 31.1, 263.0, 38.3], "text": "tp"},
+   {"mm": [237.3, 24.0, 258.2, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [91.8, 324.7], "r": 0.7, "lines": 0}, {"c": [84.4, 311.5], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 31–332 mm across, 15–424 mm up",
+  "- **Outlines:** line 278 rings, 2,847 straight (5,197 mm) / 721 curved (1,122 mm); text 222 rings, 1,696 straight (1,818 mm) / 528 curved (833 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.2 @ (48.5, 325.6), r 1.8 @ (58.7, 285.4), r 1.7 @ (167.4, 304.8), r 1.7 @ (48.1, 305.1)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 93 in 29 lines: IRCUI DESCR IPTION · 1_117 REGULA TOR BOARD · Ov rv olta ge pl\"Oteet lon Is · ded by 'crowb. · SCA 09 Tn sen ing · network o;onsl lng of · 08 · CR6, CA7 · A45 to A50 will monitor · botl'l tl'le posit ve · we ll · tl'le negative"
+ ]
+}

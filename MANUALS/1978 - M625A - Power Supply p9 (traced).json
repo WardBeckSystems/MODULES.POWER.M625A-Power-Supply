@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/POWER/M625A/MANUALS/1978 - M625A - Power Supply.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/189587744824e072-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "18"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [29.3, 12.3, 331.0, 422.9],
+ "outlines": {
+  "line": {"rings": 61, "straight": {"n": 900, "mm": 3724.9}, "curved": {"n": 154, "mm": 239.5}},
+  "text": {"rings": 262, "straight": {"n": 2370, "mm": 2594.1}, "curved": {"n": 671, "mm": 1068.2}},
+  "tb": {"rings": 4, "straight": {"n": 27, "mm": 32.6}, "curved": {"n": 3, "mm": 4.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [151.6, 361.0, 190.4, 368.1], "text": "PARTS LIST"},
+   {"mm": [135.4, 348.0, 180.1, 355.0], "text": "M625A POWER"},
+   {"mm": [182.4, 348.0, 207.7, 355.0], "text": "SUPPLY"},
+   {"mm": [44.3, 321.7, 61.5, 328.2], "text": "PART"},
+   {"mm": [72.3, 321.7, 115.9, 328.6], "text": "DESCRIPTION"},
+   {"mm": [180.7, 321.7, 194.7, 328.2], "text": "MFG"},
+   {"mm": [229.3, 320.0, 291.5, 328.2], "text": "MFg PARI_NUMBER"},
+   {"mm": [44.3, 308.7, 56.8, 315.2], "text": "Swi"},
+   {"mm": [72.3, 308.7, 94.3, 315.2], "text": "Switch"},
+   {"mm": [228.9, 308.7, 242.9, 315.2], "text": "9201"},
+   {"mm": [44.3, 302.3, 57.2, 308.7], "text": "Sw2"},
+   {"mm": [179.8, 301.8, 193.9, 309.0], "text": "CRL"},
+   {"mm": [228.9, 301.8, 254.8, 308.8], "text": "PSA-205"},
+   {"mm": [72.1, 281.5, 135.8, 289.2], "text": "Power Transformer"},
+   {"mm": [180.7, 282.4, 194.1, 288.9], "text": "WBS"},
+   {"mm": [228.2, 282.4, 247.0, 288.9], "text": "80-18"},
+   {"mm": [72.3, 268.4, 121.3, 275.3], "text": "Regulator PCB"},
+   {"mm": [228.2, 268.8, 246.6, 275.3], "text": "1-117"},
+   {"mm": [43.6, 84.2, 127.2, 90.7], "text": "WBS recommends the use"},
+   {"mm": [129.5, 83.1, 233.2, 90.7], "text": "of replacement parts made by"},
+   {"mm": [235.8, 82.9, 280.0, 91.5], "text": "the specified"},
+   {"mm": [43.6, 77.3, 140.1, 84.2], "text": "manufacturers for continued"},
+   {"mm": [142.7, 76.4, 253.7, 84.3], "text": "optimum equipment performance ."},
+   {"mm": [164.1, 11.2, 176.0, 17.7], "text": "4-2"}
+  ]
+ },
+ "title_block": {
+  "mm": [37.0, 75.6, 200.9, 297.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "Power Transformer",
+   "WBS",
+   "Regulator PCB",
+   "WBS recommends the use",
+   "of replacement parts made by",
+   "manufacturers for continued",
+   "optimum equipment performance ."
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 29–331 mm across, 12–423 mm up",
+  "- **Outlines:** line 61 rings, 900 straight (3,725 mm) / 154 curved (240 mm); text 262 rings, 2,370 straight (2,594 mm) / 671 curved (1,068 mm); tb 4 rings, 27 straight (32.6 mm) / 3 curved (4.9 mm)",
+  "- **Words (OCR):** 38 in 24 lines: PARTS LIST · M625A POWER · SUPPLY · PART · DESCRIPTION · MFG · MFg PARI_NUMBER · Swi · Switch · 9201 · Sw2 · CRL",
+  "- **Title block:** (37, 76)–(201, 297) mm: Power Transformer · WBS · Regulator PCB · WBS recommends the use · of replacement parts made by · manufacturers for continued · optimum equipment performance ."
+ ]
+}

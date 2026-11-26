@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/POWER/M625A/SCHEMATICS/1978 - M625A - 625-06-001 - ENER POWER SURTTY.jpg",
+ "version": 1,
+ "trace": "_traces/af8d1da309b3b5ed.svg",
+ "sheet": {
+  "number": "625-06-001",
+  "title": "Ener Power Surtty",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1433],
+  "mm": [431.8, 309.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, -0.1, 431.9, 293.8],
+ "outlines": {
+  "line": {"rings": 1485, "straight": {"n": 14928, "mm": 25445.2}, "curved": {"n": 2620, "mm": 2883.6}},
+  "text": {"rings": 30, "straight": {"n": 207, "mm": 176.3}, "curved": {"n": 67, "mm": 72.8}}
+ },
+ "circles": [
+  {"c": [217.8, 112.6], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.8, 39.6], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [355.2, 116.8, 357.5, 119.0], "w": 2.4, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [11.7, 242.2, 19.2, 246.1], "text": "Pce"},
+   {"mm": [344.1, 96.3, 352.1, 100.1], "text": "Sw |"},
+   {"mm": [337.0, 89.8, 345.2, 93.7], "text": "051"},
+   {"mm": [311.1, 52.0, 331.2, 55.9], "text": "J2 (BLACK)"},
+   {"mm": [304.2, 44.0, 315.4, 47.9], "text": "(RED)"},
+   {"mm": [262.5, 21.8, 271.8, 25.6], "text": "Sw 2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 625-06-001, size B (assumed) 432 × 309 mm, 2000 × 1433 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–432 mm across, 0–294 mm up",
+  "- **Outlines:** line 1,485 rings, 14,928 straight (25,445 mm) / 2,620 curved (2,884 mm); text 30 rings, 207 straight (176 mm) / 67 curved (72.8 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.4 @ (217.8, 112.6), r 1.2 @ (74.8, 39.6)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 6 in 6 lines: Pce · Sw | · 051 · J2 (BLACK) · (RED) · Sw 2"
+ ]
+}

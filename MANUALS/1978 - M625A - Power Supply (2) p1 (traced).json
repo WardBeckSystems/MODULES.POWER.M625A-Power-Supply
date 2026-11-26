@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/POWER/M625A/MANUALS/1978 - M625A - Power Supply (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/75516223a4b432fe-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1552, 2000],
+  "mm": [335.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "18"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.5, 22.2, 329.5, 423.6],
+ "outlines": {
+  "line": {"rings": 89, "straight": {"n": 1341, "mm": 3964.1}, "curved": {"n": 263, "mm": 466.9}},
+  "text": {"rings": 43, "straight": {"n": 344, "mm": 611.4}, "curved": {"n": 96, "mm": 176.1}}
+ },
+ "circles": [{"c": [144.7, 234.4], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [47.5, 394.9, 286.5, 411.9], "text": "[WEI_] WARO-BECK SYBTE MS LTO."},
+   {"mm": [122.0, 395.3, 154.8, 399.6], "text": "T&.Vt'08l5-"},
+   {"mm": [141.4, 241.8, 196.7, 252.1], "text": "M625A"},
+   {"mm": [137.7, 230.1, 199.7, 236.6], "text": "POWER SUPPLY"},
+   {"mm": [289.7, 76.4, 310.2, 85.5], "text": "ca"},
+   {"mm": [266.9, 53.5, 288.7, 65.1], "text": "BS"},
+   {"mm": [244.4, 31.1, 263.0, 38.3], "text": "tp"},
+   {"mm": [237.3, 24.0, 258.2, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1552 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–330 mm across, 22–424 mm up",
+  "- **Outlines:** line 89 rings, 1,341 straight (3,964 mm) / 263 curved (467 mm); text 43 rings, 344 straight (611 mm) / 96 curved (176 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (144.7, 234.4)",
+  "- **Words (OCR):** 13 in 8 lines: [WEI_] WARO-BECK SYBTE MS LTO. · T&.Vt'08l5- · M625A · POWER SUPPLY · ca · BS · tp · ht"
+ ]
+}
