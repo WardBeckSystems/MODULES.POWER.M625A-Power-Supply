@@ -20,7 +20,7 @@ Wiki page: [M625A](../../../../PAGES/M625A.md)
 - **Closed boxes:** 1
 - **Words (OCR):** 6 in 6 lines: Pce · Sw | · 051 · J2 (BLACK) · (RED) · Sw 2
 
-Every curve, box, word and wire group: [1978 - M625A - 625-06-001 - ENER POWER SURTTY (traced).json](../SCHEMATICS/1978%20-%20M625A%20-%20625-06-001%20-%20ENER%20POWER%20SURTTY%20(traced).json) (the CAD file: `1978 - M625A - 625-06-001 - ENER POWER SURTTY (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - 625-06-001 - ENER POWER SURTTY (traced).json](../SCHEMATICS/1978%20-%20M625A%20-%20625-06-001%20-%20ENER%20POWER%20SURTTY%20%28traced%29.json) (the CAD file: `1978 - M625A - 625-06-001 - ENER POWER SURTTY (traced).dxf`).
 
 ## Full text
 

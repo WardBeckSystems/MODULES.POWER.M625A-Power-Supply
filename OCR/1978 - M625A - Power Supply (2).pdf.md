@@ -22,7 +22,7 @@ Wiki page: [M625A](../../../../PAGES/M625A.md)
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (144.7, 234.4)
 - **Words (OCR):** 13 in 8 lines: [WEI_] WARO-BECK SYBTE MS LTO. · T&.Vt'08l5- · M625A · POWER SUPPLY · ca · BS · tp · ht
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p1 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p1%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p1 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -33,7 +33,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p1 (trac
 - **Dots (junctions):** 6
 - **Words (OCR):** 146 in 70 lines: AAD-BI!CK SYSTEM8 · LTD. · TECHNICA OATA · M62SA POWER SUPPLY · DC Out put: · lS al loa · ren IS · I"OM · ·25 · 10 · es. · in Reg ul ion
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p2 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p2%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p2 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -44,7 +44,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p2 (trac
 - **Dots (junctions):** 11
 - **Words (OCR):** 123 in 91 lines: WAAD-BeCK Bybteme · cincuit descaiPtiUN · POWER_EuRELY · ME254 · MCz _4 · Buppiy Gnich · C4ped & · Jelivering · Lcrtnt · Jmoerea · tronstontttr · dpigred
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p3 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p3%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p3 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p3 (trac
 - **Words (OCR):** 256 in 149 lines: WARD -BEC SYS EMS l.TD. · TE ST · SETU · PROCE DURE · emov PCB · ~117. · ly pow"''' · ch · fa,. · ",nc", · ro" lma t",l · -+-40 vee
 - **Title block:** (21, 138)–(82, 418) mm: emov · to sr en · th · ln SI · Mo · 117 · _Remov · -Manito,. Ih · emov · _App ly · is
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p4 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p4%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p4 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p4 (trac
 - **Words (OCR):** 278 in 141 lines: WARD -BEC SYSTEMS LTD. · TEST fJ SETU PROCEDURE · 12) · Se · metering swi tch to +25 · se th · OMM to · CURR EN · .....nge · -Adj us · c...llb..atlon control R39 · 1-1 17
 - **Title block:** (25, 396)–(133, 419) mm: WARD -BEC SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p5 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p5%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p5 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p5 (trac
 - **Words (OCR):** 188 in 93 lines: WARD -BECI< SYSTEMS LTD. · TEST · SE TUP PROCEDU RE · lo ly · ly · input · ve ec · When th · volt · ..ea e5 · ro xi ma te ly 28 to 30 vol · Ih
 - **Title block:** (26, 397)–(134, 420) mm: WARD -BECI< SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p6 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p6%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p6 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p6 (trac
 - **Dots (junctions):** 3
 - **Words (OCR):** 72 in 43 lines: WARD · av.Te · LTD. · TEST · SE.TUP PROCEDURE · M625A POWER SUPPLY · +40 · +40.0 · +25 · 0.0 · -12.0 · _25.
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p7 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p7%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p7 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p7 (trac
 - **Words (OCR):** 81 in 59 lines: WARD-BECK SYSTEMS LTD. · M62~ · POWER SUPPLY · cr · Cap ac tor · .033 F!400 · 281COA33K · Ph iP · C2 · 0.1 uF 400 · 28 1COAlOOK · F!50
 - **Title block:** (27, 396)–(135, 418) mm: WARD-BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p8 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p8%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p8 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p8 (trac
 - **Words (OCR):** 42 in 20 lines: WARD -BeCK ev.TI!M. · LTD · M625A POWER SUPPL · MFG PAR NUMBER · sw, · RL · Regu lator PC · wa · r-ee · Se · rep lacemen parts ma · "pec ifl ed
 - **Title block:** (24, 396)–(90, 420) mm: WARD -BeCK ev.TI!M.
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p9 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p9%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p9 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p9 (trac
 - **Words (OCR):** 423 in 177 lines: WARD ECK BYBTB:Ma · LTD. · CI RCUIT DESCR IP ION · 117 REGULA TOR BOARO · 1_117 Reg lat or is · prin ted ci rcu it bo ard · is sed · umb er of WBS Po er Supplies and con ins · majority · act ecircuitry of th es units · +2S · egul ator con st
 - **Title block:** (23, 309)–(105, 422) mm: WARD ECK BYBTB:Ma · 1_117 Reg lat or is · act ecircuitry of th es units
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p10 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p10%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p10 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -135,7 +135,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p10 (tra
 - **Dots (junctions):** 2
 - **Words (OCR):** 93 in 29 lines: IRCUI DESCR IPTION · 1_117 REGULA TOR BOARD · Ov rv olta ge pl"Oteet lon Is · ded by 'crowb. · SCA 09 Tn sen ing · network o;onsl lng of · 08 · CR6, CA7 · A45 to A50 will monitor · botl'l tl'le posit ve · we ll · tl'le negative
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p11 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p11%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p11 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p11 (tra
 - **Dots (junctions):** 3
 - **Words (OCR):** 87 in 59 lines: WARD I!CK 8Y8TI!Ma LTD. · PARTS LIST · 1_117 REGULATOR BOARD · PART NUMBER · cr · ap a~i1or · 2200pF · As elco · C0 92 Me -222M · cz · .015 uF · C0 92-MC_ls3M
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p12 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p12%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p12 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p12 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 126 in 93 lines: •CK · ~T.M. LTD. · PARTS LIST · 1_117 REGULATOfl BOARD · DESCRIPT ION · MFG 'ART · NUMBER · Re sist or 1/4W · n:.lips · '20 · R6 · RT
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p13 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p13%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p13 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -166,7 +166,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p13 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 76 in 39 lines: 117 REGUL ....TOR BO....RD · MFG ....RT NUMBER · R36 · Re istor 1/4W · el · ele · Ph il ip · R39 · Tri · po · ZOK · Pihe
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p14 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p14%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p14 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p14 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 132 in 95 lines: P2 · 0·5 · R4 · ----i.I. · ~"""""'V\,-T-------,------r------~....L-·----------..,.....~------l-f) +25v · Q2 · 1,2, · PI · SWI · /2N3772 · 120VAC · R7
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p15 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p15%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p15 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p15 (tra
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 3.4 @ (217.8, 112.7), r 1.7 @ (90.8, 115.1), r 1.2 @ (74.8, 39.6)
 - **Words (OCR):** 10 in 10 lines: 117 · pce · R5 · Tl · Rl · ps · BS · tp · .a.am · ht
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p16 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p16%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p16 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p16 (tra
 - **Words (OCR):** 172 in 128 lines: NC>TE.~ · ALL RE.S\S · TORe., ARE. · se/. · AND ALl.. · c./>..P~<"ITORS IN · LE SS · RE.G. B~~E. · 5£l<le::, · CuRRENT · LIMIT · +25V
 - **Title block:** (350, 4)–(432, 35) mm: APP. · (VVE3S] WARD-'BECK SYSTEMS · ISSUE DATE · REVISION · ps · BS · DRN MRW · ENG. MRW · 8/78 · 117 · eKD · RrJ- · REGULATOR BOARD · tp · APP · SCHEMATIC · ht · ALL RE.S\S · TORe., ARE. · se/.
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p17 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p17%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p17 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -212,7 +212,7 @@ Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p17 (tra
 - **Closed boxes:** 11
 - **Words (OCR):** 71 in 63 lines: ~VADJ · sao · _~,...!Ma.. · -RI01!!l · -R:M1i!! · -R4-~ · -R9.5~ · -R7..!iQ. · -RI1.JI!< · -RIO- · CI~OOp · (Ql~
 
-Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p18 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20(2)%20p18%20(traced).json) (the CAD file: `1978 - M625A - Power Supply (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - Power Supply (2) p18 (traced).json](../MANUALS/1978%20-%20M625A%20-%20Power%20Supply%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1978 - M625A - Power Supply (2) p18 (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M625A](../../../../PAGES/M625A.md)
 - **Title block:** (349, 0)–(432, 31) mm: WBS WARO-BECK systeMs · -117 · REGULATOR BOARD · CKD · chemaTIC · Scale · ISSUL
 - **Wiring (first pass):** 61 connected wire groups from 547 runs; labelled ends: 463 mm → 744037, 24612; 277 mm → 0872, 24612, 643; 236 mm → WARO-BECK systeMs, ISSu, WBS; 227 mm → 8k, 83k; 89 mm → 14105
 
-Every curve, box, word and wire group: [1978 - M625A - 117-02-001 - IRCUIT ADCED IISSUEJDATE REVISION (traced).json](../SCHEMATICS/1978%20-%20M625A%20-%20117-02-001%20-%20IRCUIT%20ADCED%20IISSUEJDATE%20REVISION%20(traced).json) (the CAD file: `1978 - M625A - 117-02-001 - IRCUIT ADCED IISSUEJDATE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M625A - 117-02-001 - IRCUIT ADCED IISSUEJDATE REVISION (traced).json](../SCHEMATICS/1978%20-%20M625A%20-%20117-02-001%20-%20IRCUIT%20ADCED%20IISSUEJDATE%20REVISION%20%28traced%29.json) (the CAD file: `1978 - M625A - 117-02-001 - IRCUIT ADCED IISSUEJDATE REVISION (traced).dxf`).
 
 ## Full text
 
