@@ -1,0 +1,135 @@
+{
+ "module": "M625A",
+ "title": "M6254APOWER SUPPLY",
+ "source": {
+  "file": "MANUALS/1978 - M625A - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Dc output",
+   "key": "dc_output",
+   "text": "+25 volts amperes load currents from",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Line regulation",
+   "key": "line_regulation",
+   "text": "1% for Line variations from 105 volts ac",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 105,
+     "unit": "volts ac"
+    }
+   ]
+  },
+  {
+   "name": "Load regulation",
+   "key": "load_regulation",
+   "text": "for full Load load variations from zero"
+  },
+  {
+   "name": "Ripple and noise",
+   "key": "ripple_and_noise",
+   "text": "Less than 500 microvolts RMS for all Line and load conditions specified above."
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Less than ohm from 20 kHz.",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Stability",
+   "key": "stability",
+   "text": "volts measured over an period, after minutes warmup hour"
+  },
+  {
+   "name": "Protection",
+   "key": "protection",
+   "text": "Overcurrent and short circuit foldback. Overvoltage crowbar"
+  },
+  {
+   "name": "Ac input",
+   "key": "ac_input",
+   "text": "125 volts ac, input power: 525 VA. Hz. Maximum",
+   "quantities": [
+    {
+     "value": 125,
+     "unit": "volts ac"
+    },
+    {
+     "value": 525,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius at rated output."
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "8.45\" wide 5.1\" high 13.7\" deep 214.6 mm 130 Mm 348 mm)",
+   "quantities": [
+    {
+     "value": 8.45,
+     "unit": "\""
+    },
+    {
+     "value": 5.1,
+     "unit": "\""
+    },
+    {
+     "value": 13.7,
+     "unit": "\""
+    },
+    {
+     "value": 214.6,
+     "unit": "mm"
+    },
+    {
+     "value": 130,
+     "unit": "Mm"
+    },
+    {
+     "value": 348,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "MF6A mounting frame (accommodates [wo M625A power supplies)",
+   "quantities": [
+    {
+     "value": 6,
+     "unit": "A"
+    },
+    {
+     "value": 625,
+     "unit": "A"
+    }
+   ]
+  }
+ ]
+}
