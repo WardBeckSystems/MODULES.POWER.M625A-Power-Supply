@@ -1,6 +1,6 @@
 # M625A Power Supply · Power
 
-Ward-Beck Systems M625A, 1978|11. Wiki page: [M625A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M625A.html)
+Ward-Beck Systems M625A, 1978|11. Wiki page: [M625A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M625A-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
