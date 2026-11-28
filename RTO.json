@@ -7,56 +7,47 @@
  "verified": null,
  "derived": true,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "+25 OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/POWER/M625A/MANUALS/1978 - M625A - P004 - 3-1.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/POWER/M625A/MANUALS/1978 - M625A - P004 - 3-1.jpg",
-   "page": 1
-  },
-  {
-   "pin": "9",
-   "signal": "OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/POWER/M625A/MANUALS/1978 - M625A - P004 - 3-1.jpg",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "WITH THE SUPPLY OUTPUT SHORTED THE CURRENT",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/POWER/M625A/MANUALS/1978 - M625A - P010 - 1-117-1-1.jpg",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Modules/POWER/M625A/MANUALS/1978 - M625A - P004 - 3-1.jpg",
   "Modules/POWER/M625A/MANUALS/1978 - M625A - P010 - 1-117-1-1.jpg"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "21",
+   "signal": "WITH THE SUPPLY OUTPUT SHORTED THE CURRENT",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "J2",
+   "pin": "1",
+   "signal": "+25 OUTPUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "J2",
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "J2",
+   "pin": "9",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/IO/M625A.pins.json"
+ }
 }
